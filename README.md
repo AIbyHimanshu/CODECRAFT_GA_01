@@ -53,3 +53,13 @@ Write a concise note in 5-7 lines:
 ├── GA_01.ipynb
 ├── data.txt
 └── README.md
+```
+
+---
+
+## References
+
+- [To generate text — using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
+- [GPT-2 (or GPT Neo) Text-Generating Model w/ GPU](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
+
+---
